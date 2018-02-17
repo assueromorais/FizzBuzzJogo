@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <Compile Include="FizzBuzzJogo.fs" />
-    <Compile Include="FizzBuzzJogoPersonalizado.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
